@@ -1,0 +1,19 @@
+{
+  "name": "pratham-106",
+  "version": "1.0.0",
+  "description": "NPM Lab Experiment 4",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.0.0",
+    "express": "^4.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
+}
